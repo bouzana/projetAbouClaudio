@@ -1,0 +1,7 @@
+.slider .thumb {
+    -fx-background-color: transparent;
+    -fx-background-position: left top, center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 75%, auto;
+    -fx-padding: 32;
+}
